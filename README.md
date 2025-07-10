@@ -37,11 +37,11 @@ Implement automated quality checks and CI/CD workflows via Azure DevOps and Git,
 
 ---
 
-
 ## Let's Connect 🌍
 
 📬 Email: [dibanga2800@gmail.com](mailto:dibanga2800@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/david-ibanga](https://linkedin.com/in/david-ibanga)  
+🔗 LinkedIn: [linkedin.com/in/david-ibanga](https://linkedin.com/in/david-ibanga)
+
 ---
 
 Thanks for visiting my profile. I’m open to new roles, freelance engagements, and impactful collaborations in the data space. Let’s build something meaningful with data.
