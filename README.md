@@ -15,11 +15,11 @@ Design and implementation of batch and streaming ETL pipelines using Apache Spar
 🏗️ **Cloud Data Architecture**  
 Architect cost-effective and performance-optimized data platforms in GCP, AWS, and Azure. I’ve delivered data warehouse solutions that reduce cost by up to 50% while increasing reliability.
 
-🗄️ **Database Management & Optimization**
+🗄️ **Database Management & Optimization11**
 Experienced with PostgreSQL, SQL Server, MySQL, and MongoDB. I specialize in database management and optimization — tuning schemas, building indexes, and writing performant SQL to power real-time dashboards and BI reports. My work ensures databases are fast, reliable, and scalable.
 
-🏗️ **Cloud Data Architecture**  
-Architect cost-effective and performance-optimized data platforms in GCP, AWS, and Azure. I’ve delivered data warehouse solutions that reduce cost by up to 50% while increasing reliability.
+🏗️ **Database Management & Optimization**  
+Experienced with PostgreSQL, SQL Server, MySQL, and MongoDB. I specialize in database management and optimization — tuning schemas, building indexes, and writing performant SQL to power real-time dashboards and BI reports. My work ensures databases are fast, reliable, and scalable.
 
 🤝 **Collaboration & Cross-Functional Engagement**
 I thrive in fast-paced, collaborative environments, working alongside engineering, product, and data science teams to drive data-centric solutions. 
