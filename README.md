@@ -1,4 +1,4 @@
-Hi, I'm David Ibanga — Data Engineer | Cloud Data Specialist ☁️👨🏾‍💻  
+### Hi, I'm David Ibanga — Data Engineer | Cloud Data Specialist ☁️👨🏾‍💻  
 Welcome to my GitHub!
 
 I'm a UK-based Data Engineer with 3+ years of hands-on experience designing, building, and optimizing data pipelines and cloud-based data platforms. I help organizations transform raw data into reliable, high-quality assets that fuel analytics, reporting, and machine learning.
@@ -15,11 +15,12 @@ Design and implementation of batch and streaming ETL pipelines using Apache Spar
 🏗️ **Cloud Data Architecture**  
 Architect cost-effective and performance-optimized data platforms in GCP, AWS, and Azure. I’ve delivered data warehouse solutions that reduce cost by up to 50% while increasing reliability.
 
-🗄️ **Database Optimization**  
-Experienced with PostgreSQL, SQL Server, MySQL, and MongoDB. I tune schemas, build indexes, and write performant SQL to power real-time dashboards and BI reports.
+🗄️ **Database Management & Optimization**
+Experienced with PostgreSQL, SQL Server, MySQL, and MongoDB. I specialize in database management and optimization — tuning schemas, building indexes, and writing performant SQL to power real-time dashboards and BI reports. My work ensures databases are fast, reliable, and scalable.
 
-📈 **Data Analytics Enablement**  
-I collaborate with analytics and data science teams to ensure clean, reliable datasets — transforming messy inputs into strategic insights using Python, SQL, and Power BI.
+🤝 Collaboration & Cross-Functional Engagement
+I thrive in fast-paced, collaborative environments, working alongside engineering, product, and data science teams to drive data-centric solutions. 
+Whether leading or contributing, I believe in open communication and collective problem-solving.
 
 🔒 **Data Governance & CI/CD**  
 Implement automated quality checks and CI/CD workflows via Azure DevOps and Git, ensuring data trust, traceability, and fast iteration across development teams.
