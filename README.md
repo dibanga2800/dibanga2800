@@ -29,11 +29,12 @@ Implement automated quality checks and CI/CD workflows via Azure DevOps and Git,
 
 ## Why Work With Me 🤝
 
-✅ Proven ability to translate business problems into scalable technical solutions  
-✅ Comfortable in fast-paced, cross-functional teams — including engineering, product, and data science  
-✅ Committed to writing clean, well-documented, and maintainable code  
-✅ Strong communication and mentorship mindset  
+✅ Proven ability to translate business problems into scalable technical solutions
+✅ Comfortable in fast-paced, cross-functional teams — including engineering, product, and data science
+✅ Committed to writing clean, well-documented, and maintainable code
+✅ Strong communication and mentorship mindset
 ✅ Cloud-native and platform-agnostic
+
 ---
 
 ## Let's Connect 🌍
