@@ -1,71 +1,50 @@
-# 👋 Hi there, I'm David Ibanga – Data Engineer
+Hi, I'm David Ibanga — Data Engineer | Cloud Data Specialist ☁️👨🏾‍💻  
+Welcome to my GitHub!
 
-Welcome to my GitHub! I'm a Data Engineer passionate about crafting robust, scalable data pipelines and cloud-native data architectures that power business intelligence and analytics.
+I'm a UK-based Data Engineer with 3+ years of hands-on experience designing, building, and optimizing data pipelines and cloud-based data platforms. I help organizations transform raw data into reliable, high-quality assets that fuel analytics, reporting, and machine learning.
 
-🔍 I specialize in turning raw data into actionable insights, with a strong focus on performance, data quality, and modern tooling.
-
----
-
-## 🧠 Now Working On
-
-🔧 Building and optimizing real-time streaming pipelines using **Apache Kafka** and **Spark**  
-☁️ Enhancing cloud data warehouses in **GCP** for performance and cost-efficiency  
-📊 Collaborating with analytics teams to deliver powerful **BI dashboards**
+My approach combines engineering discipline with a problem-solving mindset — using tools like Apache Spark, Airflow, and Kafka to build scalable systems that handle complex data challenges efficiently.
 
 ---
 
-## 💼 Core Skills & Technologies
+## What I Do Best 🛠️
 
-### 🛠️ Languages & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+📊 **Data Pipeline Engineering**  
+Design and implementation of batch and streaming ETL pipelines using Apache Spark, Kafka, and Airflow — enabling scalable, fault-tolerant data flows across systems.
 
-### 🧰 Tools & Frameworks
-![Apache Spark](https://img.shields.io/badge/Spark-FD4A00?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+🏗️ **Cloud Data Architecture**  
+Architect cost-effective and performance-optimized data platforms in GCP, AWS, and Azure. I’ve delivered data warehouse solutions that reduce cost by up to 50% while increasing reliability.
 
-### ☁️ Cloud & DevOps
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-292961?style=flat-square&logo=azuredevops&logoColor=white)
+🗄️ **Database Optimization**  
+Experienced with PostgreSQL, SQL Server, MySQL, and MongoDB. I tune schemas, build indexes, and write performant SQL to power real-time dashboards and BI reports.
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL--Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+📈 **Data Analytics Enablement**  
+I collaborate with analytics and data science teams to ensure clean, reliable datasets — transforming messy inputs into strategic insights using Python, SQL, and Power BI.
+
+🔒 **Data Governance & CI/CD**  
+Implement automated quality checks and CI/CD workflows via Azure DevOps and Git, ensuring data trust, traceability, and fast iteration across development teams.
 
 ---
 
-## 🔎 About Me
-I'm an adaptable engineer with cross-industry experience in consulting, security operations, and telecoms. I love combining clean code, automation, and cloud technologies to help organizations make smarter decisions faster.
+## Highlights & Impact 🚀
+
+- **Real-Time Analytics Pipeline:** Delivered sub-minute insights for telecom operations using Kafka + Spark.
+- **GCP Cost Optimization:** Re-architected BigQuery models, cutting query costs by 50% and improving dashboard response time.
+- **Airflow Data Quality Framework:** Created reusable DAG templates for validating data integrity at ingestion.
 
 ---
 
-<details>
-<summary>📂 Featured Projects</summary>
+## Why Work With Me 🤝
 
-### 🛰️ Tele Connect Analytics Pipeline  
-Built a real-time streaming pipeline using Apache Kafka + Spark that enabled sub-minute insights for a telecom operator.
-
-### 🧊 GCP Data Warehouse Optimization  
-Refactored GCP BigQuery architecture to reduce cost by over 50% while improving reliability and query performance.
-
-### ✅ Airflow Data Quality Framework  
-Designed modular DAGs for automated data validation across critical pipelines to maintain trust in BI reporting.
-
-</details>
+✅ Proven ability to translate business problems into scalable technical solutions  
+✅ Comfortable in fast-paced, cross-functional teams — including engineering, product, and data science  
+✅ Committed to writing clean, well-documented, and maintainable code  
+✅ Strong communication and mentorship mindset  
+✅ Cloud-native and platform-agnostic
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect 🌍
 
 📬 Email: [dibanga2800@gmail.com](mailto:dibanga2800@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/david-ibanga](https://linkedin.com/in/david-ibanga)  
@@ -73,4 +52,4 @@ Designed modular DAGs for automated data validation across critical pipelines to
 
 ---
 
-*Thanks for stopping by. I’m always open to collaboration on impactful data projects or mentoring new engineers! 🚀*
+Thanks for visiting my profile. I’m open to new roles, freelance engagements, and impactful collaborations in the data space. Let’s build something meaningful with data.
