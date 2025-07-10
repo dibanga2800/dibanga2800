@@ -27,14 +27,6 @@ Implement automated quality checks and CI/CD workflows via Azure DevOps and Git,
 
 ---
 
-## Highlights & Impact 🚀
-
-- **Real-Time Analytics Pipeline:** Delivered sub-minute insights for telecom operations using Kafka + Spark.
-- **GCP Cost Optimization:** Re-architected BigQuery models, cutting query costs by 50% and improving dashboard response time.
-- **Airflow Data Quality Framework:** Created reusable DAG templates for validating data integrity at ingestion.
-
----
-
 ## Why Work With Me 🤝
 
 ✅ Proven ability to translate business problems into scalable technical solutions  
@@ -42,14 +34,12 @@ Implement automated quality checks and CI/CD workflows via Azure DevOps and Git,
 ✅ Committed to writing clean, well-documented, and maintainable code  
 ✅ Strong communication and mentorship mindset  
 ✅ Cloud-native and platform-agnostic
-
 ---
 
 ## Let's Connect 🌍
 
 📬 Email: [dibanga2800@gmail.com](mailto:dibanga2800@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/david-ibanga](https://linkedin.com/in/david-ibanga)  
-
 ---
 
 Thanks for visiting my profile. I’m open to new roles, freelance engagements, and impactful collaborations in the data space. Let’s build something meaningful with data.
