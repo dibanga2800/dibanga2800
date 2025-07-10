@@ -49,7 +49,6 @@ Implement automated quality checks and CI/CD workflows via Azure DevOps and Git,
 
 📬 Email: [dibanga2800@gmail.com](mailto:dibanga2800@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/david-ibanga](https://linkedin.com/in/david-ibanga)  
-💻 GitHub: [github.com/dibanga2800](https://github.com/dibanga2800)
 
 ---
 
