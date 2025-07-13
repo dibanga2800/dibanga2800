@@ -1,4 +1,4 @@
-### Hi, I'm David Ibanga — Data Engineer | Big Data Analyst ☁️👨🏾‍💻  
+### Hi, I'm David Ibanga — Data Engineer | Azure Data Engineer ☁️👨🏾‍💻  
 Welcome to my GitHub!
 
 I'm a UK-based Data Engineer with 3+ years of hands-on experience designing, building, and optimizing data pipelines and cloud-based data platforms. I help organizations transform raw data into reliable, high-quality assets that fuel analytics, reporting, and machine learning.
