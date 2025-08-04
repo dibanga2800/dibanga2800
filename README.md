@@ -4,11 +4,11 @@ Welcome to my GitHub!
 I'm a UK-based Data Engineer with 4 years of experience building data pipelines and cloud data platforms. I turn raw data into reliable assets for analytics, reporting, and ML — using tools like Apache Spark, Airflow, and Kafka to solve complex data problems at scale.
 
 ### What I Do Best 🛠️
-📊 Data Pipelines: Design and build batch/streaming ETL pipelines with Spark, Kafka, and Airflow.
-🏗️ Cloud Architecture: Develop cost-effective data solutions across Azure, GCP, and AWS.
-🗄️ Database Optimization: Expertise in SQL-based and NoSQL systems for performance tuning.
-🌟 Team Collaboration: Cross-functional team player who values open communication.
-🔒 CI/CD & Governance: Use Azure DevOps & Git for automated testing, trust, and traceability.
+📊 ** Data Pipelines:** Design and build batch/streaming ETL pipelines with Spark, Kafka, and Airflow.
+🏗️ **Cloud Architecture:** Develop cost-effective data solutions across Azure, GCP, and AWS.
+🗄️ **Database Optimization:** Expertise in SQL-based and NoSQL systems for performance tuning.
+🌟 **Team Collaboration:** Cross-functional team player who values open communication.
+🔒 **CI/CD & Governance:** Use Azure DevOps & Git for automated testing, trust, and traceability.
 
 ### Why Work With Me 🤝
 ✅ Translate business needs into scalable data solutions
