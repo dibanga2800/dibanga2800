@@ -12,7 +12,7 @@ I'm a UK-based Data Engineer with 4 years of experience building data pipelines 
 
 ### Why Work With Me 🤝
 ✅ Translate business needs into scalable data solutions
-✅ Thrive in agile, cross-disciplinary teams
+✅ Thrive in agile, cross-disciplinary teams</br>
 ✅ Write clean, maintainable code with strong communication skills
 ✅ Cloud-native and adaptable across platforms
 
